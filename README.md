@@ -2,3 +2,5 @@
 Mein Hallo Welt PHP-Script.
 
 Mal schauen, was geht ... 
+
+Ja, bin auch gespannt:)
